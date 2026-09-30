@@ -14,3 +14,6 @@ This CSV lists VoltMart's IT assets, built by extending the AutoFix Workshop inv
 - Owners are assigned by realistic staff role (Store Manager, IT Admin, Store Associate) rather than named individuals.
 - Business Value and Sensitivity are independent scores - an asset can be high value but low sensitivity, or vice versa.
 - The list totals 16 assets, covering hardware, network, payment, and security equipment.
+
+## Business Value vs. Sensitivity
+These two ratings are independent: Business Value reflects how much daily operations depend on the asset (e.g., a checkout PC is high value because sales stop without it), while Sensitivity reflects the risk if the asset or its data were exposed or compromised (e.g., a receipt printer is low sensitivity since it holds no sensitive data).
